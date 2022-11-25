@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![22HBG_logo](https://github.com/22hbg-srl/.github/blob/main/resources/22hbg_grey_logo.png?raw=true)
+[![22HBG_logo](https://github.com/22hbg-srl/.github/blob/main/profile/resources/22hbg_grey_logo.png?raw=true)](https://22hbg.com/)
 
 </div>
 
